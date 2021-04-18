@@ -1,3 +1,4 @@
-# angular-ftqxuu-xcq7gl
+# Angular Getting Started Tutorial
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ftqxuu-xcq7gl)
+Install with `npm install`, start with `ng serve -o`
+
