@@ -5,6 +5,11 @@ export type Product = {
   description: string;
 };
 
+export type ShippingPrice = {
+  type: string;
+  price: number;
+};
+
 export const products: Product[] = [
   {
     id: 1,
